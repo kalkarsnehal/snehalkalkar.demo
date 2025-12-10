@@ -1,4 +1,4 @@
 # snehalkalkar.demo
 This is my first Git Repository
 <br>
-Author = Snehal kalkar
+Author = Snehal (Ananya)
